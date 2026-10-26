@@ -1,3 +1,6 @@
+## License
+   © 2026 Elhabchi Mohammed. All Rights Reserved.
+
 # CVGenius
 
 CVGenius est un projet de création et de gestion de CV et de portfolios. Le code présent dans ce dépôt contient principalement les modèles de données et les migrations Laravel.
